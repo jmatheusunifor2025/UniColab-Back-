@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+*.user
+*.log
+
+# Segredos locais. O exemplo pode entrar no Git; o arquivo real, não.
+appsettings.Local.json
+appsettings.*.local.json
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.p12
+secrets.json

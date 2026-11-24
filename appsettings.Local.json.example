@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "Unicolab": "Server=127.0.0.1;Port=3306;Database=unicolab_db;User ID=root;Password=COLOQUE_A_SENHA;Treat Tiny As Boolean=true;Allow User Variables=true;CharSet=utf8mb4"
+  },
+  "Jwt": {
+    "Key": "COLOQUE_UMA_CHAVE_COM_PELO_MENOS_32_CARACTERES"
+  }
+}
